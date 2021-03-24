@@ -2,6 +2,8 @@
 
 ABM of Physarum tranport networks
 
+Example of emergent pattern formation and evolution formed by a population of simple particle-like agents. Using simple local behaviors based on chemotaxis, the mobile agent population spontaneously forms dynamic transport networks. By adjusting simple model parameters, maps of characteristic patterning are obtained.
+
 ## Example
 
 ## Run the model
@@ -18,8 +20,8 @@ Parameter selection : in main.py you can select :
 - board size
 - initial trail map
 - initial particule/agent map
-- the model ( w/o collision)
-- agent parameters (sensor and motor)
+- the model ( w or w/o collision)
+- agent parameters (sensor and motor cf. model description in ref)
 ```
 
 ## Description of other files
