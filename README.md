@@ -2,6 +2,8 @@
 
 ABM of Physarum tranport networks
 
+![Alt text](https://raw.githubusercontent.com/LCB0B/Physarum_Transport_Network/main/giphy.gif)
+
 Example of emergent pattern formation and evolution formed by a population of simple particle-like agents. Using simple local behaviors based on chemotaxis, the mobile agent population spontaneously forms dynamic transport networks. By adjusting simple model parameters, maps of characteristic patterning are obtained.
 
 ## Example
